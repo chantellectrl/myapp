@@ -5,7 +5,7 @@ export default App = ()=> {
     return (
       <View>
         <Text> textInComponent </Text>
-        <Text> textInComponent </Text><Text> textInComponent </Text><Text> textInComponent </Text><Text> textInComponent </Text><Text> textInComponent </Text><Text> textInComponent </Text><Text> textInComponent </Text><Text> textInComponent </Text>
+        <Text> textInComponent </Text><Text>MY textInComponent </Text><Text> textInComponent </Text><Text> textInComponent </Text><Text> textInComponent </Text><Text> textInComponent </Text><Text> textInComponent </Text><Text> textInComponent </Text>
       </View>
     )
 }
